@@ -1,13 +1,14 @@
+import Header from "./components/Header/Index";
 
-
-function App() {
+export default function App() {
 
 
   return (
     <>
+      <Header/>
      <h1>Stock Manager</h1>
     </>
   )
 }
 
-export default App
+
