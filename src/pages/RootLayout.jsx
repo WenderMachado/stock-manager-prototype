@@ -7,7 +7,7 @@ export default function RootLayout(){
     <>
     <Header/>
     <main>
-    <Outlet/>
+      <Outlet/>
     </main>
     </>
   )
