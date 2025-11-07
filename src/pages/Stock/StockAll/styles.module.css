@@ -1,0 +1,30 @@
+.topGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 2rem;
+  margin-top: 3rem;
+  padding: 2rem;
+  background-color: rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+
+
+.btnAll{
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.btnBlue, .btnRed, .btnWhite{
+  background-color: aqua;
+  color: black;
+  padding: 1rem 2rem;
+  font-size: 1.6rem;
+}
+.btnRed{
+    background-color: rgb(202, 26, 26);
+}
+.btnWhite{
+    background-color: rgb(255, 255, 255);
+}

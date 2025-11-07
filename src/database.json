@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id": 1, "itens": "Camisa", "variedade": 5, "total": 20 },
+    { "id": 2, "itens": "Calça", "variedade": 4, "total": 20}
+  ],
+  "users": [
+    { "id": 1, "itens": "Wender", "variedade": "admin" }
+  ]
+}
